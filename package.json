@@ -1,0 +1,9 @@
+{
+  "name": "design_system",
+ "private": true,
+ "workspaces": [
+  "packages/*"
+ ],
+ "author": "joão Souza"
+ 
+}
